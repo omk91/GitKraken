@@ -8,6 +8,6 @@ public class Main {
 		Doctor d = new Doctor();
 		ChildDoctor cd = new ChildDoctor();
 		
-		
+		System.out.println(cd);
 	}
 }
