@@ -8,7 +8,7 @@ public class Main {
 		Doctor d = new Doctor();
 		ChildDoctor cd = new ChildDoctor();
 		
-		System.out.println(cd);
+		System.out.println(cd.handle(c));
 		System.out.println("change form eclipse");
 	}
 }
