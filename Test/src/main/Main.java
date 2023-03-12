@@ -9,5 +9,6 @@ public class Main {
 		ChildDoctor cd = new ChildDoctor();
 		
 		System.out.println(cd);
+		System.out.println("change form eclipse");
 	}
 }
